@@ -1,2 +1,2 @@
 # proxy-sort
-Тестовое задание на вакансию «Удаленный Frontend разработчик JavaScript/Vue.js»
+Работу программы можно посмотреть здесь: http://sortproxy.medstat.info/
